@@ -2,6 +2,8 @@
 
 # README #
 
+# DISCLAMER: Program for educational purposes!!!
+
 * Generador de lista, routar flood y cracker Wifi
 
 * Générateur de Wordlist, router flood et cracker Wifi (WEP, WPA/WP2).
