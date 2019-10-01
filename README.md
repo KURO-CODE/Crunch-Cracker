@@ -1,14 +1,14 @@
-![crunch-cracker.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/crunch-cracker.jpg)
+![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
 
 # README #
 
 # DISCLAMER: Program for educational purposes!!!
 
-* Generador de lista, routar flood y cracker Wifi
+* Generador de lista, routar flood y cracker Wifi (WPS, WEP, WPA/WP2).
 
-* Générateur de Wordlist, router flood et cracker Wifi (WEP, WPA/WP2).
+* Générateur de Wordlist, router flood et cracker Wifi (WPS, WEP, WPA/WP2).
 
-* Wordlist générator, router flood and Wifi Cracker
+* Wordlist générator, router flood and Wifi Cracker (WPS, WEP, WPA/WP2).
 
 **Crunch-Cracker 1.0 beta**
 
@@ -65,13 +65,26 @@ Wifi cracker
 
 * Date: 08/06/2018
 * Dev: Shell
+
+**Crunch-Cracker V 1.5**
+
++ BugFix
++ Script revision
++ Check dependencie
++ Auto Update Version
++ WPS Attack
+
+* Date: 10/01/2019
+* Dev: Shell
 * BY: KURO-CODE
 
 # Prerequisites #
 
 * Crunch
 * Macchanger
-* Aircrack-ng (Fullpack)
+* Aircrack-ng (suite)
+* Reaver
+* PixieWPS
 
 # Use # 
 
