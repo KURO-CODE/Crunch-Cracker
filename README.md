@@ -1,5 +1,10 @@
 ![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
 
+![](https://img.shields.io/github/issues/KURO-CODE/Crunch-Cracker.svg)
+![](https://img.shields.io/github/forks/KURO-CODE/Crunch-Cracker.svg)
+![](https://img.shields.io/github/stars/KURO-CODE/Crunch-Cracker.svg)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Crunch-Cracker)
+
 # README #
 
 # DISCLAMER: Program for educational purposes!!!
