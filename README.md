@@ -1,6 +1,8 @@
+# Crunch-Cracker 1.5
+
 ![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
 
-# README #
+![](https://img.shields.io/badge/CrunchCracker-bash-green.svg)
 
 # DISCLAMER: Program for educational purposes!!!
 
@@ -10,14 +12,14 @@
 
 * Wordlist générator, router flood and Wifi Cracker (WPS, WEP, WPA/WP2).
 
-**Crunch-Cracker 1.0 beta**
+#### Crunch-Cracker 1.0 beta
 
 Function crunch simple Wordlist generator
  
 * Date: 10/10/2016
 * Dev: Shell
 
-**Crunch-Cracker 1.1**
+#### Crunch-Cracker 1.1
 
 Automate Wordlist générator
 
@@ -28,7 +30,7 @@ Automate Wordlist générator
 * Langage:ENG, FR, ESP
 * Dev: Shell
 
-**Crunch-Cracker 1.2**
+#### Crunch-Cracker 1.2
 
 Automate Wordlist générator
 Wifi cracker
@@ -40,7 +42,7 @@ Wifi cracker
 * Langage:ENG, FR, ESP
 * Dev: Shell
 
-**Crunch-Cracker 1.3**
+#### Crunch-Cracker 1.3
 
 Automate Wordlist générator
 Wifi cracker
@@ -53,7 +55,7 @@ Wifi cracker
 * Langage:ENG, FR, ESP
 * Dev: Shell
 
-**Crunch-Cracker V 1.4**
+#### Crunch-Cracker V 1.4
 					 
 + Compatibility
   - Ubuntu
@@ -66,7 +68,7 @@ Wifi cracker
 * Date: 08/06/2018
 * Dev: Shell
 
-**Crunch-Cracker V 1.5**
+#### Crunch-Cracker V 1.5
 
 + BugFix
 + Script revision
@@ -78,7 +80,7 @@ Wifi cracker
 * Dev: Shell
 * BY: KURO-CODE
 
-# Prerequisites #
+# Prerequisites
 
 * Crunch
 * Macchanger
@@ -86,9 +88,19 @@ Wifi cracker
 * Reaver
 * PixieWPS
 
-# Use # 
+# Download
+```bash
+git clone https://github.com/KURO-CODE/Crunch-Cracker.git
+```
 
-1. git clone https://github.com/KURO-CODE/Crunch-Cracker.git
-2. cd Crunch-Cracker
-3. chmod +x crunchcracker.sh
-4. sudo ./crunchcracker.sh
+# Use 
+```bash
+cd Crunch-Cracker
+chmod +x crunchcracker.sh
+./crunchcracker.sh
+```
+#### Or
+```bash
+cd Crunch-Cracker
+sudo bash ./crunchcracker.sh
+```
