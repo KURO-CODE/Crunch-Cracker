@@ -2,7 +2,7 @@
 
 ![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
 
-![](https://img.shields.io/badge/CrunchCracker-bash-green.svg)
+![](https://img.shields.io/badge/CrunchCracker-Shell-green.svg)
 
 # DISCLAMER: Program for educational purposes!!!
 
