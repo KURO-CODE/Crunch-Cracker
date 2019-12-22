@@ -84,7 +84,7 @@ Wifi cracker
 
 * Crunch
 * Macchanger
-* Aircrack-ng (suite)
+* Aircrack-ng
 * Reaver
 * PixieWPS
 
