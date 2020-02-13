@@ -1,4 +1,4 @@
-# Crunch-Cracker 1.5 ![](https://img.shields.io/badge/CrunchCracker-Shell-green.svg)
+# Crunch-Cracker 1.6 ![](https://img.shields.io/badge/CrunchCracker-Shell-green.svg)
 
 ![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
 
@@ -54,10 +54,6 @@ Wifi cracker
 * Dev: Shell
 
 #### Crunch-Cracker V 1.4
-					 
-+ Compatibility
-  - Ubuntu
-  - Kali
 
 + Trap (exit)
 + Root perm.
@@ -78,8 +74,19 @@ Wifi cracker
 * Dev: Shell
 * BY: KURO-CODE
 
+#### Crunch-Cracker V 1.6
+
++ BugFix
++ Script revision
++ Pipeline Crunch/Aircrack
+
+* Date: 10/01/2019
+* Dev: Shell
+* BY: KURO-CODE
+
 # Prerequisites
 
+* Xterm
 * Crunch
 * Macchanger
 * Aircrack-ng
