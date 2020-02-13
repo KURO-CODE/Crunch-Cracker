@@ -138,7 +138,7 @@ Air_P="AirPlay"
 #**** Info ****
 Inf_Name="Crunch-Cracker"
 Ver="1.6"
-Inf_Date="09/17/2019"
+Inf_Date="02/10/2020"
 
 #**** PATH ****
 #chmod +x aimon-ng
