@@ -1,6 +1,6 @@
 # Crunch-Cracker 1.6 ![](https://img.shields.io/badge/CrunchCracker-Shell-green.svg)
 
-![CC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CC.jpg)
+![CrunchC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CrunchC.jpg)
 
 # DISCLAMER: Program for educational purposes!!!
 
