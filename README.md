@@ -10,11 +10,11 @@
 
 * Wordlist générator, router flood and Wifi Cracker (WPS, WEP, WPA/WP2).
 
-#### Crunch-Cracker 1.0 beta
+#### Crunch-Cracker 1.0 beta                     #### Crunch-Cracker 1.1
 
-Function crunch simple Wordlist generator
+Function crunch simple Wordlist generator        Automate Wordlist générator
  
-* Date: 10/10/2016
+* Date: 10/10/2016                               + Setting menu Multilangual
 * Dev: Shell
 
 #### Crunch-Cracker 1.1
