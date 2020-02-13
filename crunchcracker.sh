@@ -636,6 +636,7 @@ information() {
 
 #~~~~ MENU CRUNCH ~~~~
 Crunchmenu() {
+	LX=0
 	Place="Crunchmenu"
 	clear
 	LOGO
@@ -663,7 +664,6 @@ Crunchmenu() {
 }
 
 #~~~~ Set list ~~~~
-LX=0
 function LST {
 	Place="LST"	
 	if [ $LX = 0 ]; then
@@ -692,7 +692,7 @@ function LST {
 		echo -e "$SETLIST_INFCHAR ${W}\n"
 		read -p " $SETLIST_IN: " char
 		LN=`echo ${#char}`
-		if [ $LN -gt 0 ]; then
+		if [ $LN -gt 1 ]; then
 			LX=$(($LX+1))
 		else
 			echo -e "${W} [${R} $error${W} ]"
@@ -1029,6 +1029,7 @@ RLIST() {
 	read -p " List: " WORDLIST
 }
 
+#~~~~ Check List ~~~~
 function Check_List {
 	Place="Check_List"
 	if [ ! -f "$DUMP/$WORDLIST" ]; then
@@ -1062,12 +1063,14 @@ function CRACKLIST {
 	END_CRK
 }
 
+#~~~~ Pipeline ~~~~
 function PIPELINE() {
 	Place="PIPELINE"
 	xterm -e "crunch $min $max $char | aircrack-ng -w - $TMP/OUTPUT-01.cap -e $Host_SSID -l $TMP/KEY_$Host_SSID.txt" &&
 	END_CRK
 }
 
+#~~~~ End Crack ~~~~
 function END_CRK {
 	Place="END_CRK"
 	if [ -d "$TMP2" ]; then
@@ -1139,6 +1142,7 @@ function cap_trap {
 	case $Place in
 		"setting") $DEFAULT_LANGUAGE; EXITMENU;;
 		"main") EXITMENU;;
+		"LST") EXITMENU;;
 		"Check_Mon") KILLPROC; NETWORKRESTOR; EXITMENU;;
 		"MONITOR") EXITMENU;;
 		"SCANNER") KILLPROC; NETWORKRESTOR; EXITMENU;;
