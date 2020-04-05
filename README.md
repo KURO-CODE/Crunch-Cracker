@@ -80,7 +80,7 @@ Wifi cracker
 + Script revision
 + Pipeline Crunch/Aircrack
 
-* Date: 02/13/2020
+* Date: 13/02/2020
 * Dev: Shell
 * BY: KURO-CODE
 
